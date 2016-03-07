@@ -35,7 +35,7 @@ This concept may be useful for the speech synthesis software or automated report
 "use strict";
 
 function tellNumber(number){
-	console.log("number="+number);
+	//console.log("number="+number);
 		
 	var digits = ['zero','one','two','three','four', 'five','six','seven','eight','nine'];
 	var tens = ['ten','eleven','twelve','thirteen', 'fourteen','fifteen','sixteen', 'seventeen','eighteen','nineteen'];
